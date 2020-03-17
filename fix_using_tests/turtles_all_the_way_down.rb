@@ -4,7 +4,6 @@ def turtles
     [
       {name: "Donatello", weapon: "bo-staff", traits: ["serious", "leader"]},
       {name: "Michaelangelo", weapon: "nunchuks", traits: ["party dude"]},
-      binding.pry
       {name: "Raphael", weapon: "sais", traits: ["cool", "rude"]},
       {name: "Leonardo", weapon: "katanas", traits: ["loves being a turtle"]}
     ]
